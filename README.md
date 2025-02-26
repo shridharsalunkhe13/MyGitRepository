@@ -1,4 +1,4 @@
 # MyGitRepository
 my first git repository
-Author - Shridhar Salunkhe.
-second auther - Dell Laptop
+<br>Author - Shridhar Salunkhe.
+<br>second auther - Dell Laptop
